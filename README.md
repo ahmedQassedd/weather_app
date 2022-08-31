@@ -1,4 +1,4 @@
-<p align="left" width="100%">
+<p align="left" width="130%">
     <img width="15%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot_20220831_092606_com.example.weather.jpg?alt=media&token=f4a5acca-d7a0-4c23-b6fa-eeb5058191ac">
     <img width="15%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot_20220831_092807_com.example.weather.jpg?alt=media&token=1b2af142-35be-4547-b579-039f9fcad9a4">
     <img width="15%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot_20220831_092824_com.example.weather.jpg?alt=media&token=3aaaeb9b-2fa6-42b8-b7f0-fd1f2ae644ac">
