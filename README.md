@@ -1,9 +1,4 @@
 # Weather App
-
-
-# Weather AXx  ddasda
-
-
 <p align="left" width="100%">
     <img width="20%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot_20220831_092606_com.example.weather.jpg?alt=media&token=f4a5acca-d7a0-4c23-b6fa-eeb5058191ac">
     <img width="20%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot_20220831_092807_com.example.weather.jpg?alt=media&token=1b2af142-35be-4547-b579-039f9fcad9a4">
