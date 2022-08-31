@@ -8,7 +8,15 @@
 
 
 
+
+
+
+
+
+
 # Weather App
+
+
 <p align="left" width="100%">
     <img width="20%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot_20220831_212618_com.example.weather.jpg?alt=media&token=626ded01-f094-4566-b860-87e5676339ea">
     <img width="20%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot_20220831_212639_com.example.weather.jpg?alt=media&token=175c9417-7c2f-43db-8f74-183dd23b96b8">
