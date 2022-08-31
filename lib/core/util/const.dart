@@ -1,0 +1,2 @@
+dynamic myCity  ;
+dynamic favoriteCity  ;
