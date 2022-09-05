@@ -22,6 +22,11 @@ This is a simple app to know the weather in detail, with elegant design for all 
 
 ## The app look switches from day to night or night to day automatically when night or day comes
 
+### Video for app :
+https://drive.google.com/file/d/1nDtlush4MD8fgW2pdkAlVBq1y4L3uUC5/view?usp=sharing
+<br />
+<br />
+<br />
 
 ### Night Look :
 <div>
